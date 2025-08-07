@@ -353,3 +353,33 @@ EOF
 - [チーム開発](./09-team-development.md)
 - [実例集](./10-case-studies.md)
 - [クイックスタート](./01-quick-start.md)
+
+## 参考文献
+
+### フックシステム
+- [Hooks Documentation](https://docs.anthropic.com/en/docs/claude-code/hooks) - 公式フックドキュメント
+- [Settings Reference](https://docs.anthropic.com/en/docs/claude-code/settings) - 設定ファイルリファレンス
+- [Event-Driven Architecture](https://martinfowler.com/articles/201701-event-driven.html) - Martin Fowler
+
+### MCP (Model Context Protocol)
+- [MCP Documentation](https://docs.anthropic.com/en/docs/claude-code/mcp) - MCP公式ドキュメント
+- [Awesome MCP](https://github.com/modelcontextprotocol/awesome-mcp) - MCPツール集
+- [MCP SDK](https://docs.anthropic.com/en/docs/claude-code/sdk) - MCP SDKドキュメント
+
+### CI/CD統合
+- [GitHub Actions for Claude](https://docs.anthropic.com/en/docs/claude-code/github-actions) - GitHub Actions統合
+- [GitLab CI Integration](https://docs.gitlab.com/ee/ci/yaml/) - GitLab CI設定
+- [Jenkins Automation](https://www.jenkins.io/doc/book/pipeline/) - Jenkinsパイプライン
+
+### スクリプト自動化
+- [Bash Scripting Guide](https://www.gnu.org/software/bash/manual/) - Bashマニュアル
+- [Node.js Child Process](https://nodejs.org/api/child_process.html) - Node.jsプロセス管理
+- [Cron Documentation](https://man7.org/linux/man-pages/man5/crontab.5.html) - Cronスケジューリング
+
+### IDE統合
+- [VS Code Extension API](https://code.visualstudio.com/api) - VS Code拡張開発
+- [IDE Integrations](https://docs.anthropic.com/en/docs/claude-code/ide-integrations) - IDE統合ガイド
+
+### ベストプラクティス
+- [Automation Best Practices](https://www.atlassian.com/continuous-delivery/principles/automation-best-practices) - Atlassian
+- [DevOps Automation](https://aws.amazon.com/devops/automation/) - AWS DevOps

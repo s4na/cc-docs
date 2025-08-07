@@ -341,3 +341,35 @@ gpg --encrypt --recipient team@example.com api-key.txt
 - [実例集](./10-case-studies.md)
 - [クイックスタート](./01-quick-start.md)
 - [自動化テクニック](./08-automation.md)
+
+## 参考文献
+
+### チーム開発方法論
+- [Team Topologies](https://teamtopologies.com/) - Matthew Skelton & Manuel Pais著
+- [The Five Dysfunctions of a Team](https://www.tablegroup.com/books/dysfunctions/) - Patrick Lencioni著
+- [Accelerate](https://itrevolution.com/accelerate-book/) - Nicole Forsgren他著
+
+### コードレビュー
+- [Best Kept Secrets of Peer Code Review](https://smartbear.com/resources/ebooks/best-kept-secrets-of-code-review/) - SmartBear
+- [Google Code Review Guidelines](https://google.github.io/eng-practices/review/) - Googleエンジニアリングプラクティス
+- [Code Review Best Practices](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/) - GitHub Blog
+
+### ペア/モブプログラミング
+- [Pair Programming Illuminated](https://www.amazon.com/Pair-Programming-Illuminated-Laurie-Williams/dp/0201745763) - Laurie Williams著
+- [Mob Programming](https://mobprogramming.org/) - Woody Zuill
+- [Remote Pair Programming](https://martinfowler.com/articles/remote-pair-programming.html) - Martin Fowler
+
+### 知識共有
+- [Working Out Loud](https://workingoutloud.com/) - John Stepper
+- [Knowledge Management in Software Engineering](https://ieeexplore.ieee.org/document/9426853) - IEEE論文
+- [Documentation as Code](https://www.docslikecode.com/) - Anne Gentle
+
+### DevOps文化
+- [The DevOps Handbook](https://itrevolution.com/devops-handbook/) - Gene Kim他著
+- [Site Reliability Engineering](https://sre.google/books/) - Google SREチーム
+- [Continuous Delivery](https://continuousdelivery.com/) - Jez Humble & David Farley
+
+### メトリクスと測定
+- [DORA Metrics](https://dora.dev/) - DevOps Research and Assessment
+- [SPACE Framework](https://queue.acm.org/detail.cfm?id=3454124) - GitHub/Microsoft研究
+- [Measuring Developer Productivity](https://martinfowler.com/articles/developer-productivity.html) - Martin Fowler

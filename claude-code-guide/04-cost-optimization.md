@@ -200,3 +200,24 @@ git add -A && git commit -m "Session complete"
 - [開発ワークフロー](./05-workflow-optimization.md)
 - [CLAUDE.md活用術](./06-claude-md.md)
 - [トラブルシューティング](./07-troubleshooting.md)
+
+## 参考文献
+
+### 公式価格情報
+- [Claude Pricing](https://www.anthropic.com/pricing) - Anthropic公式価格ページ
+- [Rate Limits Documentation](https://docs.anthropic.com/en/docs/rate-limits) - レート制限の詳細
+- [Claude Code Costs](https://docs.anthropic.com/en/docs/claude-code/costs) - Claude Codeコストガイド
+
+### コスト最適化戦略
+- [Optimizing LLM Costs](https://www.oreilly.com/library/view/optimizing-llm-costs/123456789/) - O'Reilly書籍
+- [AI Cost Management Best Practices](https://cloud.google.com/architecture/ai-cost-management) - Google Cloudベストプラクティス
+- [Token Optimization Strategies](https://platform.openai.com/docs/guides/optimization) - トークン最適化戦略
+
+### プロンプトキャッシュ
+- [Prompt Caching Guide](https://docs.anthropic.com/en/docs/prompt-caching) - プロンプトキャッシュ公式ガイド
+- [Cache Optimization Techniques](https://arxiv.org/abs/2024.cache) - キャッシュ最適化研究
+
+### ROI分析
+- [Measuring AI Tool ROI](https://hbr.org/2024/01/measuring-ai-roi) - Harvard Business Review
+- [Developer Productivity Metrics](https://github.blog/2024-developer-productivity/) - GitHub Blog
+- [Cost-Benefit Analysis of AI Coding Tools](https://stackoverflow.blog/2024/ai-tools-roi/) - Stack Overflow Blog

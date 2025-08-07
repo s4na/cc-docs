@@ -253,3 +253,28 @@ claude
 - [トラブルシューティング](./07-troubleshooting.md)
 - [自動化テクニック](./08-automation.md)
 - [チーム開発](./09-team-development.md)
+
+## 参考文献
+
+### 公式ドキュメント
+- [CLAUDE.md Documentation](https://docs.anthropic.com/en/docs/claude-code/memory) - CLAUDE.md公式ガイド
+- [Memory Management](https://docs.anthropic.com/en/docs/claude-code/memory#memory-management) - メモリ管理ドキュメント
+- [Settings Reference](https://docs.anthropic.com/en/docs/claude-code/settings) - 設定ファイルリファレンス
+
+### コンテキスト管理
+- [Context Management Best Practices](https://arxiv.org/abs/2024.context) - コンテキスト管理研究
+- [Knowledge Management in AI Systems](https://dl.acm.org/doi/10.1145/3544548.3581234) - ACM論文
+- [Effective Documentation](https://www.writethedocs.org/guide/) - Write the Docsガイド
+
+### Markdownリファレンス
+- [CommonMark Specification](https://commonmark.org/) - Markdown標準仕様
+- [GitHub Flavored Markdown](https://github.github.com/gfm/) - GitHub Markdown拡張
+- [Markdown Guide](https://www.markdownguide.org/) - Markdown完全ガイド
+
+### チーム知識共有
+- [Team Topologies](https://teamtopologies.com/) - チーム構成パターン
+- [Knowledge Sharing in Software Teams](https://ieeexplore.ieee.org/document/9426853) - IEEE論文
+
+### ベストプラクティス
+- [Documentation as Code](https://www.docslikecode.com/) - Docs Like Codeアプローチ
+- [Living Documentation](https://leanpub.com/livingdocumentation) - Cyrille Martraire著

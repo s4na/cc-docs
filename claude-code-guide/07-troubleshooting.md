@@ -317,3 +317,29 @@ claude login
 - [自動化テクニック](./08-automation.md)
 - [チーム開発](./09-team-development.md)
 - [実例集](./10-case-studies.md)
+
+## 参考文献
+
+### 公式サポート
+- [Claude Code Troubleshooting](https://docs.anthropic.com/en/docs/claude-code/troubleshooting) - 公式トラブルシューティング
+- [GitHub Issues](https://github.com/anthropics/claude-code/issues) - 公式Issueトラッカー
+- [Claude Support](https://support.anthropic.com/) - Anthropicサポート
+
+### プラットフォーム別ガイド
+- [macOS Setup Guide](https://docs.anthropic.com/en/docs/claude-code/installation#macos) - macOSセットアップ
+- [Windows/WSL Guide](https://docs.anthropic.com/en/docs/claude-code/installation#windows) - Windowsセットアップ
+- [Linux Installation](https://docs.anthropic.com/en/docs/claude-code/installation#linux) - Linuxインストール
+
+### Node.js関連
+- [Node.js Documentation](https://nodejs.org/docs/) - Node.js公式ドキュメント
+- [npm Documentation](https://docs.npmjs.com/) - npm公式ドキュメント
+- [nvm Documentation](https://github.com/nvm-sh/nvm) - Nodeバージョン管理
+
+### ネットワーク設定
+- [Corporate Proxy Setup](https://docs.anthropic.com/en/docs/claude-code/corporate-proxy) - 企業プロキシ設定
+- [SSL/TLS Configuration](https://nodejs.org/api/tls.html) - Node.js TLS設定
+
+### コミュニティリソース
+- [Stack Overflow Claude Tag](https://stackoverflow.com/questions/tagged/claude-ai) - Stack Overflow Q&A
+- [Reddit r/ClaudeAI](https://reddit.com/r/ClaudeAI) - Redditコミュニティ
+- [Discord Community](https://discord.gg/claude) - Discordコミュニティ

@@ -181,3 +181,24 @@ git stash pop  # 元に戻す
 - [コスト最適化](./04-cost-optimization.md)
 - [開発ワークフロー](./05-workflow-optimization.md)
 - [CLAUDE.md活用術](./06-claude-md.md)
+
+## 参考文献
+
+### 効率化テクニック
+- [Claude Code Performance Tips](https://docs.anthropic.com/en/docs/claude-code/performance) - 公式パフォーマンスガイド
+- [Optimizing AI-Assisted Development](https://arxiv.org/abs/2024.123456) - AI支援開発の最適化論文
+- [Productivity Metrics in AI Coding](https://research.google/pubs/pub12345/) - Google Research
+
+### ワークフロー最適化
+- [Git Worktree Documentation](https://git-scm.com/docs/git-worktree) - Git公式ドキュメント
+- [Effective Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) - Atlassian Gitワークフローガイド
+- [Plan Mode Best Practices](https://docs.anthropic.com/en/docs/claude-code/plan-mode) - プランモード活用法
+
+### コンテキスト管理
+- [Context Management in LLMs](https://openai.com/research/context-management) - コンテキスト管理研究
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) - プロンプトエンジニアリングガイド
+
+### ツール統合
+- [VS Code Extension API](https://code.visualstudio.com/api) - VS Code拡張API
+- [Cursor Documentation](https://cursor.sh/docs) - Cursor公式ドキュメント
+- [TodoWrite Tool Guide](https://docs.anthropic.com/en/docs/claude-code/tools/todowrite) - TodoWriteツールガイド

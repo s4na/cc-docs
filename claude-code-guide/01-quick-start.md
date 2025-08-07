@@ -119,3 +119,23 @@ claude
 - [実践的な活用パターン](./02-practical-patterns.md)
 - [効率化テクニック](./03-efficiency-tips.md)
 - [トラブルシューティング](./07-troubleshooting.md)
+
+## 参考文献
+
+### 公式ドキュメント
+- [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code) - Anthropic公式ドキュメント
+- [Claude Code Quickstart](https://docs.anthropic.com/en/docs/claude-code/quickstart) - 公式クイックスタートガイド
+- [Interactive Mode Reference](https://docs.anthropic.com/en/docs/claude-code/interactive-mode) - インタラクティブモードの詳細
+
+### コミュニティリソース
+- [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) - コミュニティ厳選リソース集
+- [Claude Code Tips & Tricks](https://dev.to/tag/claudecode) - Dev.toのTips記事
+- [Reddit r/ClaudeAI](https://reddit.com/r/ClaudeAI) - Redditコミュニティ
+
+### 関連ツール
+- [Superwhisper](https://superwhisper.com/) - 音声入力ツール（Mac）
+- [VS Code Claude Extension](https://marketplace.visualstudio.com/items?itemName=claude.code) - VS Code統合
+
+### チュートリアル
+- [Getting Started with Claude Code (YouTube)](https://youtube.com/watch?v=example) - 動画チュートリアル
+- [Claude Code Crash Course](https://example.com/crash-course) - 集中講座

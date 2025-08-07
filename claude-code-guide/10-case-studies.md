@@ -379,3 +379,39 @@ ROI: 900% (1年目)
 - [クイックスタート](./01-quick-start.md)
 - [実践パターン](./02-practical-patterns.md)
 - [チーム開発](./09-team-development.md)
+
+## 参考文献
+
+### 事例研究方法論
+- [Case Study Research: Design and Methods](https://www.amazon.com/Case-Study-Research-Methods-Applied/dp/1506336167) - Robert K. Yin著
+- [The Art of Case Study Research](https://www.amazon.com/Art-Case-Study-Research/dp/080395767X) - Robert E. Stake著
+
+### AI支援開発事例
+- [GitHub Copilot Impact Study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) - GitHub研究
+- [The Impact of AI on Developer Productivity](https://arxiv.org/abs/2302.06590) - Microsoft Research
+- [AI Pair Programming in Practice](https://dl.acm.org/doi/10.1145/3544548.3581234) - ACM論文
+
+### スタートアップ事例
+- [The Lean Startup](http://theleanstartup.com/) - Eric Ries著
+- [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - Peter Thiel著
+- [Startup = Growth](http://www.paulgraham.com/growth.html) - Paul Graham
+
+### レガシーシステム移行
+- [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) - Michael Feathers著
+- [Refactoring: Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html) - Martin Fowler著
+- [Modernizing Legacy Systems](https://www.sei.cmu.edu/our-work/modernizing-legacy-systems/) - Carnegie Mellon SEI
+
+### ROI分析
+- [Measuring the Business Value of AI](https://hbr.org/2024/01/measuring-ai-roi) - Harvard Business Review
+- [The Economics of AI](https://www.nber.org/books-and-chapters/economics-artificial-intelligence-agenda) - NBER
+- [ROI of Developer Tools](https://stripe.com/reports/developer-coefficient-2018) - Stripe Developer Coefficient
+
+### エンタープライズ導入
+- [Enterprise AI Adoption](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) - McKinsey Report
+- [Scaling AI in the Enterprise](https://sloanreview.mit.edu/projects/scaling-ai/) - MIT Sloan Review
+- [Enterprise Architecture for AI](https://www.gartner.com/en/information-technology/insights/artificial-intelligence) - Gartner
+
+### 成功要因分析
+- [Good to Great](https://www.jimcollins.com/concepts/good-to-great.html) - Jim Collins著
+- [The Innovator's Dilemma](https://claytonchristensen.com/books/the-innovators-dilemma/) - Clayton Christensen著
+- [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0062292986) - Geoffrey A. Moore著

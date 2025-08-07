@@ -239,3 +239,28 @@ git add . && git commit
 - [CLAUDE.md活用術](./06-claude-md.md)
 - [トラブルシューティング](./07-troubleshooting.md)
 - [自動化テクニック](./08-automation.md)
+
+## 参考文献
+
+### 開発ワークフロー
+- [Modern Development Workflows](https://martinfowler.com/articles/developer-effectiveness.html) - Martin Fowler
+- [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) - Kent Beck著
+- [Continuous Integration](https://www.atlassian.com/continuous-delivery/continuous-integration) - Atlassian CIガイド
+
+### Gitワークフロー
+- [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) - Vincent Driessen
+- [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) - GitHub公式フロー
+- [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) - GitLabフロー
+
+### CI/CD統合
+- [GitHub Actions Documentation](https://docs.github.com/en/actions) - GitHub Actions公式
+- [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - GitLab CI/CDドキュメント
+- [Jenkins Pipeline](https://www.jenkins.io/doc/book/pipeline/) - Jenkinsパイプライン
+
+### デバッグテクニック
+- [Debugging Techniques](https://www.amazon.com/Debugging-Indispensable-Software-Hardware-Problems/dp/0814474578) - David J. Agans著
+- [The Art of Debugging](https://www.oreilly.com/library/view/the-art-of/9781593271749/) - O'Reilly
+
+### 生産性メトリクス
+- [DORA Metrics](https://dora.dev/) - DevOps Research and Assessment
+- [SPACE Framework](https://queue.acm.org/detail.cfm?id=3454124) - GitHub/Microsoft研究

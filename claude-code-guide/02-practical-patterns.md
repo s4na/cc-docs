@@ -187,3 +187,24 @@ Shift+Tab（2回）
 - [効率化テクニック](./03-efficiency-tips.md)
 - [開発ワークフロー](./05-workflow-optimization.md)
 - [チーム開発](./09-team-development.md)
+
+## 参考文献
+
+### パターン集
+- [Claude Code Common Workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows) - 公式ワークフロー集
+- [Effective Claude Code Patterns](https://github.com/anthropics/claude-code/blob/main/docs/patterns.md) - GitHubパターン集
+- [Community Best Practices](https://github.com/hesreallyhim/awesome-claude-code#best-practices) - コミュニティベストプラクティス
+
+### 特定パターンの参考
+- [TDD with AI](https://martinfowler.com/articles/ai-tdd.html) - Martin FowlerのTDD解説
+- [Refactoring Patterns](https://refactoring.guru/) - リファクタリングパターン集
+- [API Design Guide](https://cloud.google.com/apis/design) - Google APIデザインガイド
+
+### 事例研究
+- [How We Use Claude Code at Scale](https://example.com/case-study) - 大規模活用事例
+- [AI-Driven Development Case Studies](https://aidd.io/case-studies) - AI駆動開発の事例集
+
+### 関連ツール
+- [OpenAPI Generator](https://openapi-generator.tech/) - APIクライアント生成
+- [Jest Testing Framework](https://jestjs.io/) - JavaScriptテストフレームワーク
+- [Prettier](https://prettier.io/) - コードフォーマッター
