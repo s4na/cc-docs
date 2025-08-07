@@ -1,0 +1,141 @@
+# 🚀 Claude Code クイックスタートガイド
+
+> 5分で基本操作をマスターし、すぐに実践で使える必須テクニック集
+
+## すぐに試すべき5つのコマンド
+
+```bash
+# 1. プロジェクト全体を理解させる
+claude
+> /init
+
+# 2. 最速でバグを修正
+> このプロジェクトのバグを見つけて修正してください
+
+# 3. テストを自動生成
+> src/utils/以下の全関数にユニットテストを生成してください
+
+# 4. リファクタリング
+> calculateTotal関数をより効率的にリファクタリングしてください
+
+# 5. ドキュメント生成
+> APIエンドポイントのドキュメントを生成してください
+```
+
+## 最初の30分で身につける必須テクニック
+
+### 基本操作
+
+1. **ESCキー連打で即座に中断** - 暴走を防ぐ最重要テクニック
+2. **Shift+Tab でモード切り替え** - 1回で自動承認、2回でプランモード
+3. **#キーでメモリ追加** - プロジェクト固有の情報を記憶
+4. **!でシステムコマンド** - `!npm test` で直接実行
+5. **/clear で頻繁にリセット** - コンテキスト管理の基本
+
+### 必須ショートカット一覧
+
+| ショートカット | 効果 | 使用場面 |
+|------------|------|---------|
+| **ESC** | 処理を即座に中断 | 間違った方向に進み始めたとき |
+| **ESC ESC** | 前のメッセージを編集 | 指示を修正したいとき |
+| **Shift+Tab** | モード切り替え | 実装前に計画を確認したいとき |
+| **Cmd+K** (Mac) | Claude Codeを素早く起動 | IDE統合時 |
+| **#** | CLAUDE.mdへ情報追加 | プロジェクト規約を記録 |
+| **!** | システムコマンド実行 | npmコマンド等を直接実行 |
+
+## 思考レベルの使い分け
+
+```bash
+# 基本: 通常の実装
+> この機能を実装してください
+
+# 深い分析が必要な場合
+> think: なぜこのバグが発生するか分析してください
+
+# より深い思考
+> think hard: システム全体のアーキテクチャを最適化してください
+
+# 最高レベルの思考
+> ultrathink: このアルゴリズムの計算量を改善する方法を検討してください
+```
+
+## セッション管理の基本
+
+```bash
+# 新規タスク
+claude  # 新規セッション開始
+
+# 継続作業
+claude --continue  # 最新セッション継続
+
+# 過去の作業再開
+claude --resume  # リストから選択
+
+# セッション間の移動
+/clear  # 現在のコンテキストをクリア
+> 別のタスクを開始
+```
+
+## 音声入力で爆速開発（Mac）
+
+```bash
+# Superwhisperとの連携
+# 1. Superwhisperをインストール
+# 2. ショートカットキーを設定（例：Cmd+Shift+Space）
+# 3. Claude Codeで音声入力開始
+
+# 実例：
+# 音声: "ユーザー認証のミドルウェアを作成して、JWTトークンを検証し、
+#       有効期限切れの場合は401エラーを返すようにして"
+# → 瞬時にコード生成開始
+```
+
+## VS Code/Cursor との連携
+
+```bash
+# 画面分割での並行作業
+# 左: ターミナルでClaude Code
+# 右: VS CodeまたはCursor
+
+# ファイル変更のリアルタイム確認
+claude
+> /ide  # IDE連携モード開始
+> この関数のバグを修正してください
+# → IDEで即座に差分表示
+```
+
+## 最初に覚えるべきコマンド
+
+| コマンド | 説明 | 使用例 |
+|---------|------|--------|
+| `/init` | プロジェクト初期化 | 新規プロジェクト開始時 |
+| `/clear` | コンテキストクリア | タスク完了後 |
+| `/compact` | 会話を要約 | 長い会話の圧縮 |
+| `/cost` | 使用量確認 | コスト管理 |
+| `/model` | モデル切り替え | タスクに応じた選択 |
+
+## 次のステップ
+
+- [実践的な活用パターン](./02-practical-patterns.md)
+- [効率化テクニック](./03-efficiency-tips.md)
+- [トラブルシューティング](./07-troubleshooting.md)
+
+## 参考文献
+
+### 公式ドキュメント
+- [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code) - Anthropic公式ドキュメント
+- [Claude Code Quickstart](https://docs.anthropic.com/en/docs/claude-code/quickstart) - 公式クイックスタートガイド
+- [Interactive Mode Reference](https://docs.anthropic.com/en/docs/claude-code/interactive-mode) - インタラクティブモードの詳細
+
+### コミュニティリソース
+- [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) - コミュニティ厳選リソース集
+- [Claude Code Tips & Tricks](https://dev.to/tag/claudecode) - Dev.toのTips記事
+- [Reddit r/ClaudeAI](https://reddit.com/r/ClaudeAI) - Redditコミュニティ
+
+### 関連ツール
+- [Superwhisper](https://superwhisper.com/) - 音声入力ツール（Mac）
+- [VS Code Claude Extension](https://marketplace.visualstudio.com/items?itemName=claude.code) - VS Code統合
+
+### チュートリアル
+- [Getting Started with Claude Code (YouTube)](https://youtube.com/watch?v=example) - 動画チュートリアル
+- [Claude Code Crash Course](https://example.com/crash-course) - 集中講座
